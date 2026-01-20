@@ -18,5 +18,5 @@ Project Management: Lifecycle management of IT deployments, ensuring efficiency,
 I am actively pursuing a career as an IT Technician, committed to continuous learning. I believe in a "Full-Stack Infrastructure" approach—meaning I am as comfortable troubleshooting a hardware workstation as I am configuring a virtualized cloud network.
 
 🔗 Connect With Me
-LinkedIn: [Your LinkedIn Profile Link]
+LinkedIn: [https://www.linkedin.com/in/jarvis-anderson/]
 Email: [jarvisnaderson76@gmail.com]
