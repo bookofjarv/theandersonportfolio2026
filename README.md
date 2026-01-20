@@ -19,7 +19,4 @@ I am actively pursuing a career as an IT Technician, committed to continuous lea
 
 🔗 Connect With Me
 LinkedIn: [Your LinkedIn Profile Link]
-
-Portfolio Site: [Optional Link]
-
-Email: [Your Professional Email]
+Email: [jarvisnaderson76@gmail.com]
