@@ -8,11 +8,11 @@ Cloud Solutions: Deployment and management within AWS/Azure environments, focusi
 Project Management: Lifecycle management of IT deployments, ensuring efficiency, documentation, and stakeholder alignment.
 
 📂 Featured Projects
-[Project Name 1]: Mastery of Networking – (Briefly describe a project involving Cisco/Juniper or Packet Tracer).
+[Project Name 1]: Mastery of Networking – (Packet Tracer Labs, Solo Projects and Badges).
 
-[Project Name 2]: Cloud Infrastructure Deployment – (Describe an AWS/Azure/GCP project).
+[Project Name 2]: Cloud Infrastructure Deployment – (Classroom AWS/Azure/GCP projects).
 
-[Project Name 3]: IT Operations Framework – (Showcase your Project Management skills).
+[Project Name 3]: IT Operations Framework – (Various Classroom Projects).
 
 📈 Career Goal & Dedication
 I am actively pursuing a career as an IT Technician, committed to continuous learning. I believe in a "Full-Stack Infrastructure" approach—meaning I am as comfortable troubleshooting a hardware workstation as I am configuring a virtualized cloud network.
