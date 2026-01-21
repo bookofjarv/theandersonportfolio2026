@@ -12,7 +12,7 @@ Project Management: Lifecycle management of IT deployments, ensuring efficiency,
 
 [Project Name 2]: Cloud Infrastructure Deployment – (Classroom AWS/Azure/GCP projects).
 
-[Project Name 3]: IT Operations Framework – (Various Classroom Projects).
+[PATHSYNC AI]: IT Operations Framework – (Project Management).
 
 📈 Career Goal & Dedication
 I am actively pursuing a career as an IT Technician, committed to continuous learning. I believe in a "Full-Stack Infrastructure" approach—meaning I am as comfortable troubleshooting a hardware workstation as I am configuring a virtualized cloud network.
